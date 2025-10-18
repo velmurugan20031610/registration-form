@@ -18,9 +18,8 @@ This project allows users to enter student details and view them instantly in a 
 
 ## 🖼️ Preview
 
-![Student Form Preview](./preview.png)
+![RegistrationForm Preview](https://velmurugan20031610.github.io/registration-form/)
 
-*(Add a screenshot of your project and name it `preview.png` in your repo for better presentation.)*
 
 ---
 
