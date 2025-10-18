@@ -1,6 +1,6 @@
-# 🎓 Student Details Task
+# 🎓 REGISTRATION FORM TASK
 
-A simple and elegant **Student Registration Form** built using **HTML**, **Tailwind CSS**, and **JavaScript**.  
+A simple and elegant **Registration Form** built using **HTML**, **Tailwind CSS**, and **JavaScript**.  
 This project allows users to enter student details and view them instantly in a dynamic table.
 
 ---
